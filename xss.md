@@ -19,3 +19,8 @@ firstname=<script src='attacker.js'></script>
 
 lastname="dale"
 ```
+
+Scenario
+- attackers get the vulnerable url 
+- attackers send email with this url to lure victim to click on the link
+- victim click on the link, attackers' script run and get cookies data, user info etc..
